@@ -1,6 +1,6 @@
 <template>
 <div class='footer'>
-Powered By RalfZ
+Powered By Xiaobe
 <br>
 ©2017
 </div>

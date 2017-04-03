@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const HOST = '/api/';
+const HOST = 'http://show.xbshumatt.com/vdo/api/index.php/';
 
 export default function (url, params = {}) {
   return new Promise((resolve, reject) => {
